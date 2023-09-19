@@ -46,7 +46,7 @@ This is a simple hospital management web application that allows you to schedule
 
 ## Customization
 
-- **Background Image**: You can replace the `'hospital-bg.jpg'` image in the CSS with your preferred background image. Ensure that the image file is in the same directory as your HTML file.
+
 
 - **Styling**: Customize the CSS styles in the `style.css` file to match your design preferences.
 
