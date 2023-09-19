@@ -1,4 +1,4 @@
-# Hospital Management Web Application by Ashish Shandil
+# Hospital Management Web Application by Ashish 
 
 
 ## Overview
