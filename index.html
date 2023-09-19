@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hospital Management</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Hospital Management</h2>
+        <label for="patient-name">Patient Name:</label>
+        <input type="text" id="patient-name" placeholder="Enter patient's name"><br><br>
+        <label for="doctor">Select Doctor:</label>
+        <select id="doctor">
+            <option value="Dr. Smith">Dr. Smith</option>
+            <option value="Dr. Johnson">Dr. Johnson</option>
+            <option value="Dr. Brown">Dr. Brown</option>
+        </select><br><br>
+        <label for="appointment-date">Appointment Date:</label>
+        <input type="date" id="appointment-date"><br><br>
+        <button onclick="scheduleAppointment()">Schedule Appointment</button><br><br>
+        <p id="result"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
